@@ -1,0 +1,19 @@
+{
+  "name": "7.-express-server-basics",
+  "version": "1.0.0",
+  "description": "api-server-basic-crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLetsapa/api-refresher.git"
+  },
+  "author": "LL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnLetsapa/api-refresher/issues"
+  },
+  "homepage": "https://github.com/JohnLetsapa/api-refresher#readme"
+}
